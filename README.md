@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4003db56-1325-42c9-9cd8-3a7802114d16)# APPBANLAPTOP
+# APPBANLAPTOP
 đồ án môn học Lập Trình Thiết Bị Di Động
 
 Thông tin đồ án: 
