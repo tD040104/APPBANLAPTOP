@@ -24,3 +24,7 @@ Chủ đề:
 Mô tả: Một cửa hàng trực tuyến cơ bản, nơi khách hàng có thể xem danh sách sản phẩm Apple, thêm vào giỏ hàng và đặt mua.
 Tính năng chính: Danh mục sản phẩm, giỏ hàng, thanh toán qua Apple Pay hoặc thẻ ngân hàng.
 Điểm nhấn: Giao diện đơn giản, tốc độ, tiện lợi, dễ sử dụng, quy trình mua sắm rõ ràng.
+
+Thiết kế:
+ https://www.figma.com/design/rY6zhOmxB2DbouYxpAP9aX/Untitled?node-id=0-1&t=j41h8g3j81nImFKZ-0
+
